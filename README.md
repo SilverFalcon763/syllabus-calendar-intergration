@@ -30,7 +30,7 @@ SyllabusFlow is a web application designed to help students organize important a
 
 SyllabusFlow is currently under development. The team is working on the system design, requirements, and an early working version of the application. 
 
-## REQ 2 Explaination
+## REQ 4 Explaination
 
 This requirement means that after a student uploads a syllabus, the system will use AI to find the most important academic dates, such as exams, quizzes, and assignments. The extracted dates will then be intergrated into Google Calendar in order to organize their events. 
 
